@@ -1,0 +1,11 @@
+{
+	"name": "moe/@PROJECT_TITLE",
+	"description": "@PROJECT_DESCRIPTION",
+	"type": "silverstripe-module",
+	"authors": [
+		{
+			"name": "@PROJECT_DISPLAY_NAME",
+			"email": "@PROJECT_USERNAME"
+		}
+	]
+}

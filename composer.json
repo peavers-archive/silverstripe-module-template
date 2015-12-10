@@ -4,8 +4,8 @@
 	"type": "silverstripe-module",
 	"authors": [
 		{
-			"name": "@PROJECT_DISPLAY_NAME",
-			"email": "@PROJECT_USERNAME"
+			"name": "@USER_DISPLAY_NAME",
+			"email": "@USER_USERNAME"
 		}
 	]
 }
